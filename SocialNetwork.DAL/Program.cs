@@ -10,6 +10,7 @@ namespace SocialNetwork.DAL
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Для корректной работы приложения запускайте, пожалуйста, Program в PLL.");
         }
     }
 }

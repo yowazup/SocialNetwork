@@ -13,7 +13,7 @@ namespace SocialNetwork.BLL
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Для корректной работы приложения запускайте, пожалуйста, Program в PLL.");
         }
     }
 }
