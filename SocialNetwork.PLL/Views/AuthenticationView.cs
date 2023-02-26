@@ -31,7 +31,7 @@ namespace SocialNetwork.PLL.Views
                 var user = this.userService.Authenticate(authenticationData);
 
                 SuccessMessage.Show("Вы успешно вошли в социальную сеть!");
-                SuccessMessage.Show("Добро пожаловать " + user.FirstName);
+                SuccessMessage.Show("Добро пожаловать, " + user.FirstName);
 
                 Program.userMenuView.Show(user);
             }
