@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetwork.BLL", "Social
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetwork.PLL", "SocialNetwork.PLL\SocialNetwork.PLL.csproj", "{941FE8B4-B767-4C71-AF61-7D5BC90B1FE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetwork.Tests", "SocialNetwork.Tests\SocialNetwork.Tests.csproj", "{E0961642-E174-4F41-82CA-02AC514EC1E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{941FE8B4-B767-4C71-AF61-7D5BC90B1FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{941FE8B4-B767-4C71-AF61-7D5BC90B1FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{941FE8B4-B767-4C71-AF61-7D5BC90B1FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0961642-E174-4F41-82CA-02AC514EC1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0961642-E174-4F41-82CA-02AC514EC1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0961642-E174-4F41-82CA-02AC514EC1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0961642-E174-4F41-82CA-02AC514EC1E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
